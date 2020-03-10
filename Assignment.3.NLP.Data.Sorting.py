@@ -263,14 +263,14 @@ sort the data by "Polarity" (to this regard, in fact, I include
 to worst (to this regard, in fact, I include "ascending=[False]" inside
 the brackets). I then use again ".to_csv()" to create a file in ".txt format"
 named "Output_file_no_duplicates_sentiment_sorted_all.txt" (to this
-regard I also include "sep="\t").
+regard I also include "sep="\t"").
 Furthermore, I then get the top 10 companies by polarity values and, in fact,
 I define "df_sentiment_top_10" and I set it equal to
 "df_sentiment.sort_values(by=["Polarity"], ascending=[False]).head(10)" (I
 include ".head(10)" to take into consideration the first 10 companies).
 I then use ".to_csv()" to create a file in ".txt format" named
 "Output_file_no_duplicates_sentiment_sorted_top10_details.txt" (to this
-regard I also include "sep="\t"); this file contains the top 10 companies
+regard I also include "sep="\t""); this file contains the top 10 companies
 and includes the columns "Name", "Purpose", "Polarity" and "Subjectivity".
 Moreover, I also use ".to_html()" to create a file in ".html format" named
 "Output_file_no_duplicates_sentiment_sorted_top10_details.html"; this file
@@ -288,7 +288,7 @@ in fact, I define "df_sentiment_tail_10" and I set it equal to
 include ".tail(10)" to take into consideration the last 10 companies).
 I then use ".to_csv()" to create a file in ".txt format" named
 "Output_file_no_duplicates_sentiment_sorted_bottom10_details.txt" (to this
-regard I also include "sep="\t"); this file contains the bottom 10 companies
+regard I also include "sep="\t""); this file contains the bottom 10 companies
 and includes the columns "Name", "Purpose", "Polarity" and "Subjectivity".
 Moreover, I also use ".to_html()" to create a file in ".html format" named
 "Output_file_no_duplicates_sentiment_sorted_bottom10_details.html"; this file
@@ -319,17 +319,17 @@ and includes the columns "Name", "Purpose", "Polarity" and "Subjectivity"
 "Output_file_no_duplicates_sentiment_sorted_top10_details.html"
 
 This file also contains the top 10 companies and includes the columns "Name",
-"Purpose", "Polarity" and "Subjectivity".
+"Purpose", "Polarity" and "Subjectivity"
 
 - File in ".txt format" named
 "Output_file_no_duplicates_sentiment_sorted_top10_names.txt"
 
-This file contains the top 10 companies and includes the column "Name".
+This file contains the top 10 companies and includes the column "Name"
 
 - File in ".html format" named
 "Output_file_no_duplicates_sentiment_sorted_top10_names.html"
 
-This file also contains the top 10 companies and includes the column "Name".
+This file also contains the top 10 companies and includes the column "Name"
 
 
 Bottom 10 companies:
@@ -344,12 +344,12 @@ This file contains the bottom 10 companies and includes the columns
 "Output_file_no_duplicates_sentiment_sorted_bottom10_details.html"
 
 This file also contains the bottom 10 companies and includes the columns "Name",
-"Purpose", "Polarity" and "Subjectivity".
+"Purpose", "Polarity" and "Subjectivity"
 
 - File in ".txt format" named
 "Output_file_no_duplicates_sentiment_sorted_bottom10_names.txt"
 
-This file contains the bottom 10 companies and includes the column "Name".
+This file contains the bottom 10 companies and includes the column "Name"
 
 - File in ".html format" named
 "Output_file_no_duplicates_sentiment_sorted_bottom10_names.html"
