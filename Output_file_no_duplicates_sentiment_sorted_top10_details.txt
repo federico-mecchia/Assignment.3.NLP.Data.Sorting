@@ -1,0 +1,11 @@
+	Name	Purpose	Polarity	Subjectivity
+101	Hoffman-Ramirez	Phased discrete concept for optimize innovative content	0.5	1.0
+342	Horton-Carter	Progressive static toolset for engage clicks-and-mortar systems	0.5	0.9
+419	Martin, West and Hays	Expanded static array for visualize synergistic info-mediaries	0.5	0.9
+176	Mcclure Inc	Enhanced coherent moderator for enable next-generation e-services	0.5	0.7
+357	Lucas, Brown and Adkins	Future-proofed coherent Graphical User Interface for repurpose strategic deliverables	0.5	0.7
+484	Cooper, Mills and Mccarty	Innovative uniform policy for integrate back-end paradigms	0.5	1.0
+17	Prince-Johnson	Realigned static support for mesh e-business solutions	0.5	0.9
+330	Martin-Thomas	Horizontal coherent product for generate best-of-breed markets	0.5	0.7
+321	Stokes and Sons	Mandatory motivating complexity for re-contextualize sexy platforms	0.5	1.0
+359	Riddle LLC	Innovative full-range time-frame for orchestrate web-enabled users	0.5	1.0

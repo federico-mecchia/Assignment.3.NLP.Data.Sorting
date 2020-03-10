@@ -1,0 +1,11 @@
+	Name	Purpose	Polarity	Subjectivity
+299	Patrick Ltd	Extended didactic workforce for matrix cross-media solutions	-0.5	0.8
+274	Bates-Johnson	Distributed didactic portal for mesh integrated synergies	-0.5	0.8
+13	Stevens-King	Reduced didactic interface for grow next-generation e-business	-0.5	0.8
+95	Fleming Ltd	Compatible maximized artificial intelligence for orchestrate sticky ROI	-0.6	1.0
+54	Johnson Ltd	Synchronized clear-thinking artificial intelligence for cultivate efficient interfaces	-0.6	1.0
+181	Coffey, Barron and Morse	Front-line regional artificial intelligence for synthesize turn-key eyeballs	-0.6	1.0
+185	Stevenson-Copeland	Future-proofed multi-state artificial intelligence for incentivize 24/365 platforms	-0.6	1.0
+440	Campbell-Ross	User-friendly client-driven artificial intelligence for implement turn-key web-readiness	-0.6	1.0
+396	Wright LLC	Triple-buffered 6thgeneration artificial intelligence for grow 24/7 vortals	-0.6	1.0
+192	Marshall LLC	Monitored stable artificial intelligence for drive front-end schemas	-0.6	1.0

@@ -1,0 +1,501 @@
+	Name	Purpose	Polarity	Subjectivity
+101	Hoffman-Ramirez	Phased discrete concept for optimize innovative content	0.5	1.0
+342	Horton-Carter	Progressive static toolset for engage clicks-and-mortar systems	0.5	0.9
+419	Martin, West and Hays	Expanded static array for visualize synergistic info-mediaries	0.5	0.9
+176	Mcclure Inc	Enhanced coherent moderator for enable next-generation e-services	0.5	0.7
+357	Lucas, Brown and Adkins	Future-proofed coherent Graphical User Interface for repurpose strategic deliverables	0.5	0.7
+484	Cooper, Mills and Mccarty	Innovative uniform policy for integrate back-end paradigms	0.5	1.0
+17	Prince-Johnson	Realigned static support for mesh e-business solutions	0.5	0.9
+330	Martin-Thomas	Horizontal coherent product for generate best-of-breed markets	0.5	0.7
+321	Stokes and Sons	Mandatory motivating complexity for re-contextualize sexy platforms	0.5	1.0
+359	Riddle LLC	Innovative full-range time-frame for orchestrate web-enabled users	0.5	1.0
+148	Chavez-Johnson	Intuitive coherent solution for incubate cutting-edge channels	0.5	0.7
+439	Avila, Davis and Perry	Innovative 6thgeneration ability for extend clicks-and-mortar methodologies	0.5	1.0
+466	Johnson-Peterson	Decentralized attitude-oriented Graphical User Interface for generate sexy communities	0.5	1.0
+404	Collins-Whitehead	Innovative content-based encryption for envisioneer interactive e-tailers	0.5	1.0
+283	Smith-Curtis	Cloned contextually-based extranet for reinvent innovative web services	0.5	1.0
+236	Hill-Martin	Proactive needs-based initiative for cultivate sexy paradigms	0.5	1.0
+271	Le, Chan and Coleman	Ergonomic asynchronous alliance for cultivate sexy portals	0.5	1.0
+414	Fox-Cowan	Innovative radical access for brand interactive info-mediaries	0.5	1.0
+261	Brooks-Reynolds	Innovative full-range structure for incubate extensible markets	0.5	1.0
+402	Miller and Sons	Advanced executive knowledge user for benchmark cutting-edge networks	0.4	0.6
+465	Baldwin, Long and Santiago	Advanced intangible database for maximize real-time communities	0.4	0.6
+405	Allen Ltd	Advanced homogeneous leverage for re-contextualize impactful interfaces	0.4	0.6
+21	Mendoza Ltd	Advanced 3rdgeneration benchmark for drive real-time interfaces	0.4	0.6
+86	Castro-Carlson	Advanced intermediate solution for harness B2B supply-chains	0.4	0.6
+234	Ray Group	Advanced mission-critical help-desk for reinvent one-to-one technologies	0.4	0.6
+177	Bowman, Jones and Davis	Realigned coherent success for redefine magnetic e-markets	0.4	0.35
+156	Kelley, Mccarty and Padilla	Organized fault-tolerant encryption for reinvent rich interfaces	0.375	0.75
+385	Carroll, Mann and Weeks	Self-enabling hybrid service-desk for seize rich platforms	0.375	0.75
+493	Harmon-Cooper	De-engineered zero administration knowledgebase for deliver rich systems	0.375	0.75
+108	Bradley-Wilcox	Streamlined systematic paradigm for innovate rich supply-chains	0.375	0.75
+44	Reynolds and Sons	Up-sized multimedia adapter for integrate rich experiences	0.375	0.75
+126	Watson Ltd	Function-based responsive time-frame for embrace compelling convergence	0.3	0.6
+127	Rivera, Thompson and Brown	Up-sized impactful success for syndicate frictionless solutions	0.3	0.0
+114	Brown PLC	Decentralized interactive emulation for envisioneer compelling vortals	0.3	0.6
+141	Hart, Armstrong and Arroyo	Enhanced responsive architecture for whiteboard compelling convergence	0.3	0.6
+304	Thompson, Caldwell and Molina	Centralized tertiary firmware for maximize compelling niches	0.3	0.6
+223	Phillips Group	Networked incremental hub for architect compelling communities	0.3	0.6
+224	Lambert-Cook	Triple-buffered even-keeled ability for synthesize compelling vortals	0.3	0.6
+289	Barajas LLC	Exclusive human-resource success for envisioneer robust technologies	0.3	0.0
+317	Wood PLC	Vision-oriented tertiary instruction set for streamline compelling ROI	0.3	0.6
+431	Stevens, Sanchez and Wu	Public-key reciprocal success for streamline best-of-breed portals	0.3	0.0
+497	Jackson Group	Multi-lateral modular success for engage bricks-and-clicks architectures	0.3	0.0
+259	Blackburn-Adams	Profound coherent customer loyalty for unleash 24/365 bandwidth	0.2916666666666667	0.85
+319	Robinson, Reed and Ashley	Profit-focused even-keeled open architecture for harness innovative metrics	0.25	0.75
+337	Skinner Ltd	Networked coherent firmware for implement dynamic supply-chains	0.25	0.4333333333333333
+378	Obrien, Munoz and Jenkins	Cross-group next generation implementation for synthesize sexy partnerships	0.25	0.5
+262	Schwartz, Neal and Garcia	Advanced impactful Local Area Network for enhance one-to-one functionalities	0.2	0.3
+84	Smith, Bates and Yates	Universal tertiary utilization for revolutionize compelling markets	0.15	0.3
+483	Gilmore-Riley	Total mobile success for re-contextualize seamless paradigms	0.13333333333333333	0.2833333333333333
+447	Herrera-Green	Realigned regional attitude for redefine seamless methodologies	0.1	0.1
+7	Medina-Dorsey	Seamless interactive concept for aggregate killer e-markets	0.1	0.1
+260	Kramer, Barber and Carpenter	Sharable intermediate process improvement for synergize seamless metrics	0.1	0.1
+332	Holmes-Jacobs	Cloned demand-driven Internet solution for engineer seamless initiatives	0.1	0.1
+24	Lynn-Alvarado	Front-line high-level toolset for leverage seamless portals	0.1	0.1
+164	Dickerson, Henry and Estrada	Seamless homogeneous parallelism for disintermediate B2B paradigms	0.1	0.1
+159	Jones Group	Seamless system-worthy process improvement for orchestrate B2B metrics	0.1	0.1
+195	Zuniga-Foster	Profound methodical adapter for enhance user-centric methodologies	0.08333333333333333	1.0
+273	Conway-Massey	Profound homogeneous parallelism for redefine extensible users	0.08333333333333333	1.0
+310	Hicks LLC	Profound tertiary encryption for synergize out-of-the-box portals	0.08333333333333333	1.0
+216	Parker-Martinez	Profound background data-warehouse for harness value-added deliverables	0.08333333333333333	1.0
+324	Bautista, Swanson and Vaughan	Horizontal multimedia matrix for engage out-of-the-box communities	0.0	0.0
+329	Blake-Lee	Reduced bottom-line pricing structure for repurpose end-to-end communities	0.0	0.0
+328	Donovan, Martinez and Houston	Re-engineered even-keeled framework for transform viral e-services	0.0	0.0
+485	Cook, Tran and Higgins	Cross-platform context-sensitive portal for integrate vertical interfaces	0.0	0.0
+327	Sampson LLC	Re-contextualized content-based hierarchy for aggregate clicks-and-mortar vortals	0.0	0.0
+326	Miller, Sanders and Griffith	Cross-platform human-resource migration for orchestrate collaborative supply-chains	0.0	0.0
+325	Edwards LLC	Reduced intermediate conglomeration for iterate extensible architectures	0.0	0.0
+457	Randall, Lucas and Moon	Devolved analyzing open system for syndicate revolutionary vortals	0.0	0.5
+323	Cannon LLC	Reduced asymmetric paradigm for integrate global content	0.0	0.0
+486	White-Morrison	Team-oriented regional ability for engage scalable paradigms	0.0	0.0
+320	Hill-Trujillo	Down-sized leadingedge software for productize end-to-end e-tailers	0.0	0.0
+487	Morales-Howell	Open-source executive secured line for unleash wireless web services	0.0	0.0
+318	Hernandez PLC	User-centric homogeneous application for whiteboard best-of-breed e-tailers	0.0	0.0
+488	Garcia, Thomas and Foster	Organic asymmetric attitude for target strategic info-mediaries	0.0	0.0
+315	King, Delgado and Pena	Robust user-facing standardization for utilize one-to-one interfaces	0.0	0.0
+314	Hess LLC	Triple-buffered value-added customer loyalty for deploy sticky systems	0.0	0.0
+313	Newton Inc	Synergistic client-driven hierarchy for integrate next-generation mindshare	0.0	0.0
+312	Lopez, King and Bowers	Optional cohesive neural-net for unleash open-source users	0.0	0.0
+331	Gray Ltd	Managed multimedia framework for incentivize cross-media schemas	0.0	0.0
+482	Sherman LLC	Balanced object-oriented hardware for innovate end-to-end convergence	0.0	0.0
+333	Dixon, Calderon and Russell	Intuitive mission-critical protocol for benchmark visionary e-markets	0.0	0.0
+345	Patterson, Suarez and Clark	Synchronized radical Internet solution for envisioneer viral technologies	0.0	0.0
+354	Johnston-Palmer	Reactive fresh-thinking knowledge user for scale distributed vortals	0.0	0.0
+353	Fernandez, George and Hunt	Virtual heuristic paradigm for benchmark B2B web-readiness	0.0	0.0
+352	Calhoun LLC	Reverse-engineered even-keeled circuit for drive clicks-and-mortar niches	0.0	0.0
+351	Shelton PLC	Inverse leadingedge model for deliver 24/365 content	0.0	0.0
+350	Francis and Sons	Automated 4thgeneration initiative for seize distributed synergies	0.0	0.0
+349	Smith, Manning and Floyd	Diverse zero-defect application for syndicate impactful channels	0.0	0.0
+348	Henderson and Sons	Universal global definition for leverage best-of-breed e-commerce	0.0	0.0
+347	Lester-Floyd	Organized intermediate portal for facilitate visionary action-items	0.0	0.0
+346	Allen, Sharp and Nguyen	Persevering local framework for facilitate extensible e-business	0.0	0.0
+344	Rodriguez and Sons	Programmable 24hour utilization for enhance front-end e-commerce	0.0	0.0
+334	Haney and Sons	Customer-focused motivating complexity for scale one-to-one initiatives	0.0	0.0
+343	Smith, Dawson and Brooks	Business-focused cohesive protocol for orchestrate proactive vortals	0.0	0.0
+480	Jones, Johnson and Schultz	Enterprise-wide leadingedge extranet for scale B2C interfaces	0.0	0.0
+341	Brown, Chambers and Santos	Customer-focused multimedia knowledge user for synthesize best-of-breed relationships	0.0	0.0
+340	Palmer-Williams	Realigned scalable model for utilize interactive e-markets	0.0	0.0
+339	Haas-Davis	Networked web-enabled software for re-intermediate transparent infrastructures	0.0	0.0
+338	Cardenas Inc	Cross-group discrete leverage for harness B2B applications	0.0	0.0
+481	Watts, Woodward and Harris	Intuitive cohesive function for maximize open-source solutions	0.0	0.0
+336	Davis Group	Grass-roots 4thgeneration customer loyalty for engineer frictionless web-readiness	0.0	0.0
+335	Rice and Sons	Enhanced regional infrastructure for monetize value-added e-tailers	0.0	0.0
+311	James-Deleon	Secured heuristic focus group for evolve e-business systems	0.0	0.0
+306	Boyd Ltd	Universal demand-driven Graphical User Interface for monetize enterprise methodologies	0.0	0.0
+309	Mayer-Davis	Stand-alone transitional system engine for architect sticky deliverables	0.0	0.0
+285	Decker-Grant	Customizable high-level encryption for engineer open-source partnerships	0.0	0.0
+282	Le-Brock	Team-oriented clear-thinking productivity for grow value-added e-services	0.0	0.0
+494	Barron-Hernandez	Distributed empowering flexibility for revolutionize wireless bandwidth	0.0	0.0
+281	Castillo PLC	Vision-oriented well-modulated capacity for leverage world-class web services	0.0	0.0
+495	Gordon, Johnson and Lopez	-emptive uniform throughput for incubate efficient supply-chains	0.0	0.0
+280	King-Washington	Reverse-engineered mobile middleware for expedite cross-media vortals	0.0	0.0
+279	Hicks-Lewis	Persistent zero tolerance synergy for productize distributed models	0.0	0.0
+278	Farley Group	Ergonomic dedicated function for scale customized action-items	0.0	0.0
+277	Landry-Schmidt	Inverse content-based process improvement for envisioneer plug-and-play models	0.0	0.0
+276	Ball LLC	Exclusive intangible Graphic Interface for target back-end methodologies	0.0	0.4
+275	Vance, Michael and Stafford	Triple-buffered transitional encoding for grow impactful initiatives	0.0	0.0
+272	Levy-Garrison	Proactive multi-tasking approach for mesh next-generation vortals	0.0	0.0
+496	Lopez, Marsh and Moore	Face-to-face intangible service-desk for mesh enterprise vortals	0.0	0.0
+270	Smith-Farmer	Up-sized object-oriented utilization for exploit frictionless initiatives	0.0	0.0
+269	Walter PLC	Fundamental explicit extranet for enable integrated action-items	0.0	0.0
+268	Hanna Group	Team-oriented grid-enabled workforce for enhance magnetic applications	0.0	0.0
+267	Schmidt-Brown	Open-architected grid-enabled projection for deploy next-generation content	0.0	0.0
+266	Huffman, Norton and Cantu	Cloned client-driven system engine for envisioneer killer mindshare	0.0	0.0
+265	Powell Ltd	Enterprise-wide intangible contingency for extend frictionless infrastructures	0.0	0.0
+264	Mcclain, Mccarthy and Lozano	Upgradable clear-thinking data-warehouse for drive killer convergence	0.0	0.0
+263	Hill PLC	Self-enabling global firmware for synergize web-enabled eyeballs	0.0	0.0
+498	Stein Ltd	Cloned mission-critical workforce for empower efficient ROI	0.0	0.0
+284	Orr-Pierce	Polarized dedicated encoding for strategize plug-and-play methodologies	0.0	0.0
+286	Coleman-Lopez	Managed composite structure for implement out-of-the-box models	0.0	0.0
+308	Oliver-Dickerson	Business-focused executive help-desk for grow cross-platform relationships	0.0	0.0
+287	Harrison, Garcia and Patterson	Cross-platform global methodology for visualize ubiquitous convergence	0.0	0.0
+307	Garcia, Myers and Rogers	Synchronized content-based monitoring for synthesize cutting-edge models	0.0	0.0
+356	Johnson-Miller	Monitored maximized policy for evolve 24/7 communities	0.0	0.0
+305	Walton-Dixon	Progressive modular focus group for visualize B2C ROI	0.0	0.0
+489	Christian-Henderson	Object-based full-range encryption for harness value-added networks	0.0	0.0
+303	Avila, Morales and Stanton	Total bifurcated portal for aggregate frictionless synergies	0.0	0.75
+302	Guerrero, Fischer and Reyes	Intuitive uniform encryption for deploy back-end bandwidth	0.0	0.0
+301	Barnes Ltd	Face-to-face context-sensitive capability for integrate sticky mindshare	0.0	0.0
+300	Cruz Inc	Fundamental intangible neural-net for extend visionary solutions	0.0	0.0
+298	Myers and Sons	Organized upward-trending methodology for facilitate dynamic metrics	0.0	0.16666666666666666
+297	Rivera-Flores	Proactive client-server interface for expedite out-of-the-box ROI	0.0	0.0
+296	Cardenas Group	Phased stable monitoring for facilitate robust architectures	0.0	0.0
+295	Rodriguez PLC	Integrated object-oriented moratorium for aggregate vertical paradigms	0.0	0.0
+294	Miller, Jensen and Nash	User-centric bifurcated analyzer for synthesize interactive infrastructures	0.0	0.0
+293	Larson-Steele	Enhanced directional pricing structure for empower sticky interfaces	0.0	0.0
+292	Morgan Inc	Self-enabling tangible migration for repurpose bleeding-edge portals	0.0	0.0
+291	Anderson, Smith and Cox	Multi-tiered even-keeled matrix for synthesize back-end platforms	0.0	0.0
+490	Kaufman-Murray	Open-source disintermediate website for unleash turn-key synergies	0.0	0.0
+491	Harrison Group	Multi-channeled background archive for matrix end-to-end methodologies	0.0	0.0
+290	Pope and Sons	Horizontal asymmetric Local Area Network for seize sticky bandwidth	0.0	0.0
+492	Haas Group	Synergistic uniform open architecture for aggregate global channels	0.0	0.25
+288	Schwartz PLC	Polarized high-level software for morph strategic deliverables	0.0	0.0
+355	Reyes, Wilson and Lyons	Operative zero-defect database for mesh viral channels	0.0	0.0
+479	guyen, Ruiz and Smith	Open-architected executive moderator for optimize collaborative portals	0.0	0.0
+456	Carter Ltd	Open-source even-keeled info-mediaries for target turn-key networks	0.0	0.0
+358	Mclaughlin and Sons	Intuitive exuding encoding for envisioneer customized e-tailers	0.0	0.0
+427	Jones-Davis	Networked responsive solution for strategize web-enabled bandwidth	0.0	0.0
+426	Leach-Riggs	Customizable zero-defect framework for grow plug-and-play relationships	0.0	0.0
+425	Kline-Hatfield	Polarized demand-driven software for enhance magnetic deliverables	0.0	0.0
+424	Smith, Hood and Thomas	Re-contextualized logistical Graphical User Interface for envisioneer B2C applications	0.0	0.0
+423	Hamilton-Conrad	Customer-focused hybrid open system for seize vertical portals	0.0	0.5
+422	Franklin and Sons	Public-key heuristic infrastructure for leverage best-of-breed portals	0.0	0.0
+421	Hill, Brady and Kennedy	Organized multi-state service-desk for maximize leading-edge eyeballs	0.0	0.0
+420	Cole, Daniels and Brooks	Total value-added algorithm for disintermediate 24/7 platforms	0.0	0.75
+460	Mills Ltd	found fresh-thinking infrastructure for monetize magnetic action-items	0.0	0.0
+418	Gillespie-Smith	Phased actuating utilization for optimize integrated web-readiness	0.0	0.0
+461	Castaneda, Lynch and Hodge	Re-engineered clear-thinking Local Area Network for drive 24/365 portals	0.0	0.0
+417	Watson, Sanchez and Graves	Team-oriented well-modulated hardware for unleash global web services	0.0	0.0
+416	Hanna, King and Byrd	Front-line disintermediate product for innovate interactive experiences	0.0	0.0
+415	Coleman-Mccall	Focused tangible service-desk for drive impactful functionalities	0.0	0.0
+462	Stewart-Mitchell	Vision-oriented mission-critical intranet for implement scalable channels	0.0	0.0
+413	Richards LLC	Synchronized maximized projection for repurpose plug-and-play web services	0.0	0.0
+412	Randolph and Sons	Digitized client-server customer loyalty for syndicate frictionless platforms	0.0	0.0
+411	Matthews-Jackson	Multi-tiered composite ability for innovate revolutionary paradigms	0.0	0.0
+410	Alvarez Group	Fully-configurable intangible hierarchy for benchmark ubiquitous functionalities	0.0	0.0
+409	Wu-Long	Self-enabling reciprocal interface for exploit real-time supply-chains	0.0	0.0
+408	Bell, Harris and Bean	De-engineered solution-oriented circuit for exploit distributed systems	0.0	0.0
+407	Gibbs-Hayes	Virtual grid-enabled time-frame for extend front-end eyeballs	0.0	0.0
+406	Larson, Mitchell and Butler	Digitized 24hour open architecture for exploit magnetic models	0.0	0.5
+428	Olson PLC	Intuitive disintermediate data-warehouse for strategize granular e-business	0.0	0.0
+429	Blankenship-Hahn	Cloned well-modulated Graphic Interface for grow intuitive channels	0.0	0.4
+430	Sanchez Group	Persistent full-range strategy for facilitate distributed content	0.0	0.0
+444	Henderson-Farrell	Phased value-added concept for seize global eyeballs	0.0	0.0
+455	Gonzales PLC	Cloned holistic orchestration for harness holistic convergence	0.0	0.0
+454	Moody LLC	Quality-focused interactive process improvement for syndicate back-end interfaces	0.0	0.0
+453	Hill LLC	Sharable intermediate structure for evolve next-generation e-tailers	0.0	0.0
+452	Phillips, Hawkins and Massey	Decentralized full-range encryption for exploit dynamic networks	0.0	0.16666666666666666
+451	Patel-Sanchez	Reverse-engineered real-time infrastructure for iterate turn-key eyeballs	0.0	0.0
+450	Bryan, Walters and Hernandez	Right-sized responsive support for empower scalable systems	0.0	0.0
+449	Jones and Sons	Exclusive system-worthy software for leverage wireless info-mediaries	0.0	0.0
+448	Mendez LLC	Secured directional synergy for expedite distributed partnerships	0.0	0.0
+446	Perez, Farrell and Coleman	Synergistic discrete matrices for iterate revolutionary systems	0.0	0.0
+445	Ruiz, Dawson and Gutierrez	Switchable composite groupware for transition best-of-breed platforms	0.0	0.0
+443	Sawyer, Cherry and Love	Multi-channeled 3rdgeneration budgetary management for e-enable enterprise deliverables	0.0	0.0
+459	Marquez Ltd	Reactive homogeneous budgetary management for mesh holistic communities	0.0	0.0
+442	Floyd, Ross and Tapia	Sharable executive protocol for orchestrate cutting-edge web services	0.0	0.0
+441	Schmidt, Johnson and Roy	Realigned systemic superstructure for orchestrate 24/365 metrics	0.0	0.0
+458	Avila and Sons	Monitored incremental Graphical User Interface for envisioneer efficient e-tailers	0.0	0.0
+438	Reeves-Gilbert	Ergonomic dynamic project for optimize virtual users	0.0	0.16666666666666666
+437	Lewis, Fitzgerald and Frank	Inverse human-resource database for leverage B2C convergence	0.0	0.0
+436	Allen-Tapia	Virtual systematic product for innovate killer info-mediaries	0.0	0.0
+435	Davis, Williams and Schmidt	Object-based eco-centric neural-net for deploy wireless applications	0.0	0.0
+434	Pham-Robertson	Up-sized contextually-based moderator for re-intermediate world-class web services	0.0	0.0
+433	Dixon, Hammond and Briggs	Customizable regional standardization for implement open-source content	0.0	0.0
+432	Walker, Davidson and Wiley	Multi-channeled actuating concept for whiteboard open-source vortals	0.0	0.0
+463	Sloan LLC	Networked bottom-line infrastructure for deliver 24/7 web-readiness	0.0	0.0
+464	Smith and Sons	Sharable explicit methodology for iterate next-generation architectures	0.0	0.0
+467	Warren LLC	Right-sized local application for synthesize plug-and-play functionalities	0.0	0.0
+368	Wade, Peck and Rose	Expanded reciprocal matrices for iterate web-enabled mindshare	0.0	0.0
+258	Carroll Group	Horizontal national capability for extend bricks-and-clicks platforms	0.0	0.0
+377	Young-Williams	Multi-tiered local system engine for cultivate turn-key markets	0.0	0.0
+376	Vasquez, Garcia and Fletcher	Exclusive disintermediate algorithm for seize 24/365 web-readiness	0.0	0.0
+375	Willis, Martinez and Smith	Switchable regional website for disintermediate cross-media e-business	0.0	0.0
+374	Mercado PLC	Re-contextualized multi-state superstructure for utilize scalable content	0.0	0.0
+373	Perry-Fox	Realigned fault-tolerant system engine for re-intermediate cross-media schemas	0.0	0.0
+372	Beard, Duke and Martin	Customer-focused web-enabled contingency for cultivate efficient interfaces	0.0	0.0
+371	Haynes, Young and Patel	Progressive background middleware for innovate cross-media niches	0.0	0.0
+370	Hughes-Medina	Multi-lateral intermediate encryption for morph viral schemas	0.0	0.0
+369	Stevens-Hill	Right-sized human-resource middleware for productize enterprise experiences	0.0	0.0
+367	Sherman-Russo	Cloned bi-directional system engine for seize ubiquitous technologies	0.0	0.0
+474	Brown-Nguyen	Automated 24hour ability for strategize visionary web services	0.0	0.0
+475	Marshall, Campbell and Fisher	Extended 4thgeneration complexity for empower bricks-and-clicks paradigms	0.0	0.0
+366	Foley, Mitchell and Davis	Fundamental bifurcated capability for transition B2C architectures	0.0	0.0
+365	Johnson-Osborne	Reverse-engineered bandwidth-monitored extranet for synergize customized metrics	0.0	0.0
+364	Davis-Flores	Up-sized object-oriented superstructure for aggregate bricks-and-clicks channels	0.0	0.0
+363	Nelson-Brown	Function-based systemic contingency for re-contextualize visionary mindshare	0.0	0.0
+362	Johnson-Wilson	Grass-roots neutral focus group for optimize granular infrastructures	0.0	0.0
+361	Castillo-Schroeder	Vision-oriented national secured line for productize turn-key convergence	0.0	0.0
+476	Donaldson, Vaughn and Dean	Focused needs-based analyzer for innovate turn-key synergies	0.0	0.0
+360	Rogers, Howell and Harvey	Open-architected disintermediate project for evolve mission-critical methodologies	0.0	0.0
+477	Campos, Willis and Sanchez	Exclusive logistical throughput for streamline next-generation systems	0.0	0.0
+379	Owens, Callahan and Summers	Synergistic mobile product for brand world-class systems	0.0	0.0
+473	Dean-Howe	Organic even-keeled open architecture for synergize web-enabled partnerships	0.0	0.5
+403	Taylor-Adams	Polarized explicit middleware for extend user-centric networks	0.0	0.0
+391	Vargas and Sons	Focused modular algorithm for optimize dot-com architectures	0.0	0.0
+468	Cantu and Sons	Re-contextualized methodical info-mediaries for extend back-end content	0.0	0.0
+401	Morgan Group	Re-contextualized eco-centric knowledgebase for grow efficient niches	0.0	0.0
+400	Simpson, Hayes and Wright	Versatile solution-oriented paradigm for integrate out-of-the-box methodologies	0.0	0.0
+399	Davis, Valdez and Keller	Ameliorated client-server architecture for matrix real-time initiatives	0.0	0.0
+397	Fox, Adams and Johnson	User-centric user-facing access for monetize web-enabled systems	0.0	0.0
+469	Stafford-Reyes	Versatile bottom-line hierarchy for re-intermediate world-class markets	0.0	0.0
+395	Clark Group	Customer-focused 24/7 portal for transform strategic portals	0.0	0.0
+394	Casey Inc	Synchronized systematic solution for empower efficient deliverables	0.0	0.0
+393	Martin LLC	Realigned user-facing capacity for enhance open-source niches	0.0	0.0
+392	Gonzalez-Long	Monitored mission-critical budgetary management for envisioneer killer partnerships	0.0	0.0
+471	Rose-Gardner	Horizontal eco-centric architecture for repurpose integrated technologies	0.0	0.0
+380	Davis LLC	Optional composite paradigm for deploy B2B channels	0.0	0.0
+390	Carter, Parrish and Gonzalez	Distributed even-keeled contingency for transform enterprise e-business	0.0	0.0
+389	Flowers, Pollard and Henry	Up-sized grid-enabled capacity for orchestrate synergistic supply-chains	0.0	0.0
+388	Walker-Johnson	User-friendly incremental model for facilitate back-end technologies	0.0	0.0
+387	Moody Group	Configurable multimedia methodology for benchmark e-business models	0.0	0.0
+386	Walker and Sons	Open-architected 3rdgeneration instruction set for generate turn-key relationships	0.0	0.0
+472	Mendoza, Gonzalez and Wilson	Team-oriented asymmetric task-force for aggregate ubiquitous models	0.0	0.0
+384	Smith LLC	Sharable zero administration definition for monetize integrated portals	0.0	0.0
+383	Gross-Jackson	Intuitive local neural-net for streamline customized markets	0.0	0.0
+382	Lang-Frank	Multi-lateral homogeneous solution for facilitate user-centric relationships	0.0	0.0
+381	Morgan-Franklin	Total fresh-thinking task-force for innovate mission-critical interfaces	0.0	0.75
+0	Evans Ltd	Team-oriented upward-trending focus group for redefine synergistic users	0.0	0.0
+250	Montoya, Camacho and Harrison	Compatible bottom-line structure for grow vertical e-services	0.0	0.0
+257	Knight Inc	Fundamental global help-desk for integrate web-enabled infrastructures	0.0	0.0
+99	Wong, Williams and Moreno	Quality-focused tangible software for exploit world-class applications	0.0	0.0
+97	Fleming Inc	Implemented intermediate matrices for orchestrate magnetic experiences	0.0	0.0
+96	Allen, Evans and Patel	Front-line upward-trending throughput for e-enable viral infrastructures	0.0	0.0
+94	Anderson LLC	Digitized analyzing secured line for synthesize efficient e-tailers	0.0	0.0
+93	Zhang-Hill	Ergonomic directional hub for revolutionize end-to-end models	0.0	0.0
+92	Cox, Livingston and Davis	Total non-volatile firmware for grow world-class networks	0.0	0.75
+91	Tran-Morris	Operative exuding neural-net for matrix value-added vortals	0.0	0.0
+90	Martinez-Miles	Reactive context-sensitive leverage for optimize e-business supply-chains	0.0	0.0
+89	Wilson-Hernandez	Open-architected bottom-line conglomeration for harness end-to-end info-mediaries	0.0	0.0
+88	Norton, Santana and Evans	Automated reciprocal service-desk for unleash virtual e-commerce	0.0	0.0
+87	Merritt Ltd	Sharable maximized moratorium for empower cutting-edge niches	0.0	0.0
+83	Weiss-Hernandez	Customizable background help-desk for productize collaborative metrics	0.0	0.0
+82	Hall, Jackson and Robertson	Down-sized modular website for synthesize virtual ROI	0.0	0.0
+81	Turner-Nelson	Programmable local website for visualize enterprise supply-chains	0.0	0.0
+80	Mclean and Sons	Open-architected modular ability for integrate turn-key methodologies	0.0	0.0
+79	Dawson, Cardenas and Flores	Phased local access for integrate B2C web-readiness	0.0	0.0
+78	Taylor Ltd	Progressive mobile info-mediaries for benchmark bleeding-edge niches	0.0	0.0
+77	Andrews Group	Total eco-centric interface for whiteboard killer mindshare	0.0	0.75
+76	Baker-Johnson	Horizontal grid-enabled function for seize global networks	0.0	0.0
+75	Cox-Sandoval	Reactive optimal solution for generate e-business metrics	0.0	0.0
+74	Smith, Richardson and Johnson	Configurable fault-tolerant infrastructure for transition collaborative communities	0.0	0.0
+73	Bird, Parker and Cole	Future-proofed clear-thinking approach for harness B2B web-readiness	0.0	0.0
+72	Fritz Group	Robust directional functionalities for morph open-source users	0.0	0.0
+71	Clark Ltd	Business-focused fault-tolerant initiative for visualize dot-com e-services	0.0	0.0
+70	Rice, Holden and Gomez	Switchable methodical budgetary management for expedite proactive networks	0.0	0.0
+69	Woods Inc	Distributed well-modulated utilization for morph cross-platform content	0.0	0.0
+98	Ferguson, Brown and Floyd	Devolved zero administration middleware for deploy transparent info-mediaries	0.0	0.0
+100	Logan Inc	Focused executive interface for visualize mission-critical niches	0.0	0.0
+67	Aguilar LLC	Customer-focused hybrid database for optimize e-business models	0.0	0.0
+102	Gallagher, Potts and Soto	Public-key zero administration encoding for enhance proactive channels	0.0	0.0
+131	Harper, Robinson and Carson	Programmable value-added intranet for drive 24/365 portals	0.0	0.0
+130	Ballard-Watkins	Function-based value-added policy for scale global infrastructures	0.0	0.0
+129	Johnson, Brown and Freeman	Cross-platform tangible capacity for architect synergistic deliverables	0.0	0.0
+256	Yu-Mckenzie	Ergonomic asynchronous interface for facilitate leading-edge partnerships	0.0	0.0
+125	Berry Ltd	Distributed 6thgeneration encoding for synthesize wireless e-business	0.0	0.0
+124	Kelley, Gomez and Hood	Business-focused methodical framework for synergize open-source applications	0.0	0.0
+123	Jones and Sons	Compatible attitude-oriented core for empower global infrastructures	0.0	0.0
+122	Anderson PLC	Diverse composite software for engage scalable users	0.0	0.0
+121	Harrison-Cruz	Optimized executive matrix for cultivate extensible markets	0.0	0.0
+120	Torres-Durham	Synchronized bi-directional model for seize synergistic functionalities	0.0	0.0
+119	Chase, Murphy and Wise	Vision-oriented leadingedge Local Area Network for synergize customized ROI	0.0	0.0
+118	Ellis LLC	Polarized real-time encryption for evolve clicks-and-mortar methodologies	0.0	0.0
+117	Hensley, Johnson and Martinez	Upgradable value-added neural-net for unleash impactful partnerships	0.0	0.0
+116	Hernandez, Goodwin and Montgomery	User-friendly grid-enabled solution for engineer interactive supply-chains	0.0	0.0
+115	Anderson-Underwood	Down-sized upward-trending initiative for enhance scalable experiences	0.0	0.0
+113	Ryan-Hernandez	Down-sized 24hour toolset for deliver enterprise platforms	0.0	0.0
+112	Cortez PLC	Managed attitude-oriented migration for whiteboard holistic schemas	0.0	0.0
+111	Smith, Gomez and Ellison	Distributed optimal analyzer for orchestrate clicks-and-mortar e-business	0.0	0.0
+110	Bridges PLC	Realigned tertiary orchestration for unleash wireless technologies	0.0	0.0
+109	Garcia-Gomez	Cross-group next generation forecast for target mission-critical info-mediaries	0.0	0.0
+107	Turner, Alvarez and Hodge	Inverse user-facing policy for cultivate distributed e-commerce	0.0	0.0
+106	Johnston Group	Public-key even-keeled complexity for embrace killer networks	0.0	0.0
+105	Khan, Blackburn and Allen	Grass-roots impactful architecture for scale vertical partnerships	0.0	0.0
+104	Morales-Frey	Progressive value-added productivity for benchmark frictionless synergies	0.0	0.0
+103	Griffin Ltd	Horizontal zero-defect access for optimize 24/365 info-mediaries	0.0	0.0
+68	Tate-Smith	Persevering methodical data-warehouse for utilize extensible schemas	0.0	0.0
+66	Peck, Kelley and Gordon	Phased exuding service-desk for revolutionize user-centric architectures	0.0	0.0
+133	Harris, Shields and Mason	Switchable eco-centric application for harness viral networks	0.0	0.0
+34	Miller Ltd	Realigned bi-directional process improvement for extend integrated e-markets	0.0	0.0
+32	Sanders Inc	Stand-alone bandwidth-monitored budgetary management for enhance intuitive e-services	0.0	0.0
+31	Clark, Baker and White	User-friendly analyzing product for disintermediate end-to-end architectures	0.0	0.0
+30	Kim LLC	Profit-focused dynamic knowledgebase for enhance cross-platform systems	0.0	0.16666666666666666
+29	Cherry-Bentley	Universal high-level utilization for embrace frictionless mindshare	0.0	0.0
+28	Ellis Group	Stand-alone grid-enabled encoding for expedite one-to-one networks	0.0	0.0
+27	Bentley Inc	Synergistic asymmetric standardization for scale enterprise schemas	0.0	0.0
+26	Roberts Group	Organized zero administration concept for re-contextualize back-end e-tailers	0.0	0.0
+25	Smith, Soto and Simpson	Diverse intermediate Graphic Interface for synergize bricks-and-clicks communities	0.0	0.4
+23	Melendez, Tyler and Hammond	Cross-group scalable customer loyalty for incentivize web-enabled action-items	0.0	0.0
+22	Williams-Henderson	Profit-focused fresh-thinking open system for drive open-source content	0.0	0.5
+20	Roberts Ltd	Synergistic methodical superstructure for syndicate B2B e-business	0.0	0.0
+19	Mccoy, Miller and Schmidt	Upgradable hybrid knowledgebase for unleash frictionless web services	0.0	0.0
+18	Olson-Zimmerman	Programmable modular customer loyalty for benchmark enterprise e-business	0.0	0.0
+16	Pearson-Bass	Programmable asymmetric open system for deploy interactive users	0.0	0.5
+15	Johnson-Gallagher	Synchronized grid-enabled project for empower visionary eyeballs	0.0	0.0
+14	Garrett Inc	Multi-channeled modular Graphical User Interface for embrace killer convergence	0.0	0.0
+12	Newman Ltd	Adaptive value-added framework for scale cross-platform bandwidth	0.0	0.0
+10	Martinez-Glass	Inverse encompassing project for reinvent transparent applications	0.0	0.0
+9	Hubbard LLC	Organic real-time customer loyalty for leverage cutting-edge e-markets	0.0	0.0
+8	Ferrell-Caldwell	Horizontal mobile utilization for facilitate back-end models	0.0	0.0
+6	Moore, Diaz and Stevens	Devolved empowering complexity for transition virtual metrics	0.0	0.0
+5	Patterson-Stewart	Automated systematic hierarchy for iterate end-to-end models	0.0	0.0
+4	Hughes and Sons	Customizable local productivity for optimize open-source e-services	0.0	0.0
+3	Thompson Group	Synchronized responsive secured line for scale real-time vortals	0.0	0.0
+2	Lopez, Camacho and Bonilla	Object-based asynchronous ability for innovate B2B mindshare	0.0	0.0
+33	Tran Ltd	Public-key bottom-line firmware for evolve proactive methodologies	0.0	0.0
+35	Diaz Inc	Switchable optimizing policy for reinvent wireless metrics	0.0	0.0
+65	Arnold, Parker and Fischer	Automated value-added strategy for cultivate granular relationships	0.0	0.0
+36	Winters, Daniels and Mathews	Optional homogeneous portal for harness 24/7 web-readiness	0.0	0.0
+64	Wilson, Bryant and Morrison	Progressive executive hub for leverage front-end architectures	0.0	0.0
+63	Robinson, Kelly and Gonzalez	User-centric 3rdgeneration contingency for facilitate mission-critical web-readiness	0.0	0.0
+62	Fernandez LLC	Enhanced even-keeled encoding for utilize value-added applications	0.0	0.0
+61	Bernard, Wolf and Nicholson	Cross-platform zero tolerance customer loyalty for innovate value-added e-markets	0.0	0.0
+60	Tyler-Gill	De-engineered interactive function for architect 24/7 supply-chains	0.0	0.0
+58	Wilson-Brown	Enterprise-wide analyzing architecture for disintermediate cross-media eyeballs	0.0	0.0
+57	Chavez-Short	Progressive local database for seize e-business content	0.0	0.0
+56	Sanders-Hernandez	Progressive local system engine for drive scalable technologies	0.0	0.0
+55	Woods, Campbell and Ramos	Persistent systemic solution for embrace turn-key schemas	0.0	0.0
+53	Kim, Schultz and Johnson	Visionary asymmetric frame for syndicate collaborative channels	0.0	0.0
+52	Patel, Chapman and Chapman	Universal client-server customer loyalty for embrace distributed functionalities	0.0	0.0
+51	Rivas, Young and Davis	Compatible 4thgeneration ability for transform next-generation e-tailers	0.0	0.0
+50	West, Melendez and Edwards	Synergized heuristic algorithm for evolve plug-and-play networks	0.0	0.0
+49	Gilmore and Sons	Function-based global secured line for implement robust interfaces	0.0	0.0
+48	Oconnell-Watson	Proactive regional open system for streamline distributed users	0.0	0.5
+47	Rivera-Browning	Focused asynchronous encryption for e-enable plug-and-play web services	0.0	0.0
+46	Hernandez-Garcia	Multi-lateral dynamic focus group for facilitate mission-critical functionalities	0.0	0.16666666666666666
+45	Hobbs Inc	Horizontal value-added protocol for engage mission-critical technologies	0.0	0.0
+43	Williams PLC	Synchronized background service-desk for syndicate real-time e-markets	0.0	0.0
+42	Rodriguez Ltd	Self-enabling encompassing orchestration for facilitate e-business functionalities	0.0	0.0
+41	Collins, Mahoney and Taylor	Assimilated interactive synergy for evolve bricks-and-clicks architectures	0.0	0.0
+40	Stein Group	Programmable clear-thinking strategy for re-intermediate collaborative e-markets	0.0	0.0
+39	Hurst PLC	Grass-roots intermediate benchmark for unleash out-of-the-box relationships	0.0	0.0
+38	Warner-Morris	Multi-channeled bandwidth-monitored portal for evolve out-of-the-box content	0.0	0.0
+37	Taylor, Daniels and Taylor	Up-sized global conglomeration for harness strategic deliverables	0.0	0.0
+132	Jones-Bailey	Compatible full-range collaboration for deploy collaborative supply-chains	0.0	0.0
+128	Mann, Shaw and Hines	Cross-platform content-based frame for evolve e-business e-business	0.0	0.0
+134	Jones, Anderson and Hamilton	Up-sized 6thgeneration website for utilize out-of-the-box mindshare	0.0	0.0
+225	Goodwin PLC	Enhanced methodical info-mediaries for re-intermediate strategic web-readiness	0.0	0.0
+221	Flores, Moore and Powell	Distributed radical structure for transition cross-media applications	0.0	0.0
+220	Lopez-Russo	Future-proofed multimedia approach for scale revolutionary models	0.0	0.0
+219	Sullivan and Sons	User-centric mobile architecture for grow next-generation systems	0.0	0.0
+218	Olson, Murray and Johnson	Synergistic 3rdgeneration extranet for repurpose 24/365 communities	0.0	0.0
+217	Smith PLC	Open-source grid-enabled contingency for target enterprise info-mediaries	0.0	0.0
+215	Davis-Meyers	Public-key client-driven orchestration for engineer synergistic interfaces	0.0	0.0
+214	Moore, Mcintyre and Campbell	Intuitive 24hour algorithm for drive out-of-the-box networks	0.0	0.0
+213	Washington-Mccormick	Intuitive demand-driven project for deploy killer models	0.0	0.0
+212	Williamson-Johnson	Versatile upward-trending task-force for disintermediate clicks-and-mortar e-markets	0.0	0.0
+211	Vaughan, Calderon and Holland	Distributed maximized portal for cultivate cross-media convergence	0.0	0.0
+210	Davidson Ltd	Object-based non-volatile protocol for deliver clicks-and-mortar e-services	0.0	0.0
+209	Simpson and Sons	Ameliorated encompassing website for expedite proactive platforms	0.0	0.0
+208	Roberts and Sons	Sharable 4thgeneration open system for transform cross-platform e-tailers	0.0	0.5
+207	Jackson, Holden and Gonzalez	Intuitive eco-centric productivity for iterate dot-com action-items	0.0	0.0
+206	Huerta and Sons	Intuitive discrete contingency for repurpose synergistic schemas	0.0	0.0
+205	Roberts Ltd	Extended mission-critical intranet for matrix cross-media paradigms	0.0	0.0
+204	Anderson, Stevens and Jensen	Pre-emptive high-level extranet for enhance value-added platforms	0.0	0.0
+203	Cabrera, Levine and Underwood	Proactive analyzing Internet solution for engage web-enabled e-business	0.0	0.0
+202	Harper-Boone	Open-source fault-tolerant knowledge user for embrace clicks-and-mortar e-services	0.0	0.0
+201	Dunn LLC	Implemented mission-critical function for extend front-end niches	0.0	0.0
+200	Bruce Group	Organized 3rdgeneration migration for deploy leading-edge portals	0.0	0.0
+199	Burns Inc	Configurable analyzing paradigm for aggregate enterprise infrastructures	0.0	0.0
+135	Jones PLC	Up-sized next generation help-desk for deliver intuitive convergence	0.0	0.0
+197	Casey, Perez and Myers	Optimized intermediate policy for facilitate enterprise technologies	0.0	0.0
+196	Murphy and Sons	Extended stable parallelism for drive back-end e-commerce	0.0	0.0
+222	Gordon, Smith and Evans	User-friendly heuristic customer loyalty for implement bleeding-edge e-services	0.0	0.0
+226	Spence PLC	Monitored client-server system engine for mesh 24/7 ROI	0.0	0.0
+193	Shepard and Sons	Profit-focused homogeneous access for morph virtual methodologies	0.0	0.0
+227	Doyle-Foley	Persistent maximized portal for morph 24/7 communities	0.0	0.0
+255	Massey-Atkinson	Ameliorated systematic database for expedite value-added e-commerce	0.0	0.0
+254	Cruz-Powell	De-engineered 5thgeneration database for morph proactive platforms	0.0	0.0
+253	Smith, Richardson and Wright	Devolved homogeneous projection for embrace integrated e-commerce	0.0	0.0
+252	Maldonado-Curtis	Switchable background customer loyalty for whiteboard impactful eyeballs	0.0	0.0
+251	Walker Group	Self-enabling asynchronous encryption for embrace revolutionary functionalities	0.0	0.0
+1	Martin, Hines and Clark	Customizable user-facing solution for harness scalable e-services	0.0	0.0
+249	Jenkins, Perez and Carrillo	Automated empowering knowledge user for integrate frictionless communities	0.0	0.0
+248	Wiggins-Wright	Intuitive incremental implementation for synergize dynamic functionalities	0.0	0.16666666666666666
+247	Brown Group	Object-based maximized groupware for deliver bricks-and-clicks niches	0.0	0.0
+246	Reynolds, Bell and Russell	Centralized clear-thinking portal for syndicate best-of-breed vortals	0.0	0.0
+245	Patel Ltd	Profit-focused executive moderator for redefine magnetic deliverables	0.0	0.0
+244	Coleman-Espinoza	Visionary human-resource capability for revolutionize turn-key interfaces	0.0	0.0
+243	Logan, Thomas and Calhoun	Mandatory tangible intranet for productize global experiences	0.0	0.0
+242	Burke, Prince and Sanders	Synergized national protocol for architect next-generation convergence	0.0	0.0
+240	Hill, Robbins and Cruz	Virtual contextually-based info-mediaries for iterate 24/365 info-mediaries	0.0	0.0
+239	Savage-Jones	Customer-focused even-keeled encryption for engage cross-platform e-markets	0.0	0.0
+238	Davis Group	Open-architected eco-centric knowledgebase for integrate virtual communities	0.0	0.0
+237	Juarez and Sons	Enterprise-wide non-volatile emulation for maximize robust vortals	0.0	0.0
+235	White, Lewis and Chambers	Synergized web-enabled utilization for syndicate transparent partnerships	0.0	0.0
+233	Powell-Hamilton	Enterprise-wide motivating circuit for reinvent proactive markets	0.0	0.0
+232	Weeks-Glass	Synchronized 4thgeneration collaboration for envisioneer distributed metrics	0.0	0.0
+231	Johnson Ltd	Customer-focused logistical complexity for synergize customized portals	0.0	0.0
+230	Bauer Ltd	Cross-platform uniform archive for aggregate plug-and-play bandwidth	0.0	0.0
+229	Brown-Ross	De-engineered systemic open system for engage distributed info-mediaries	0.0	0.5
+228	Edwards Ltd	Reduced methodical hierarchy for target bricks-and-clicks e-markets	0.0	0.0
+194	Campbell Inc	Phased clear-thinking firmware for redefine visionary infrastructures	0.0	0.0
+499	Oliver, Clark and Robinson	Business-focused interactive workforce for envisioneer global portals	0.0	0.0
+165	Jones-Flores	Reduced upward-trending portal for streamline collaborative e-commerce	0.0	0.0
+161	Moore, Franklin and Mcgee	Networked leadingedge collaboration for repurpose visionary deliverables	0.0	0.0
+171	Turner Group	Phased eco-centric open architecture for exploit one-to-one content	0.0	0.5
+170	Cooper-Guerrero	Down-sized exuding hardware for syndicate proactive schemas	0.0	0.0
+169	Graham LLC	Optimized encompassing toolset for generate scalable paradigms	0.0	0.0
+168	Marshall Inc	Object-based cohesive circuit for matrix turn-key architectures	0.0	0.0
+167	Solomon Ltd	User-friendly needs-based hub for drive real-time e-commerce	0.0	0.0
+166	Carlson-Ramsey	Optimized leadingedge protocol for whiteboard plug-and-play networks	0.0	0.0
+145	Dudley LLC	Inverse multi-state focus group for incubate holistic systems	0.0	0.0
+163	Davis-Hernandez	Triple-buffered methodical synergy for re-intermediate back-end channels	0.0	0.0
+162	Ross PLC	Reverse-engineered local alliance for re-contextualize holistic networks	0.0	0.0
+160	Bowman-Romero	De-engineered maximized application for target one-to-one communities	0.0	0.0
+151	Pugh, Lewis and Williams	Exclusive analyzing intranet for evolve global portals	0.0	0.0
+146	Williams and Sons	Triple-buffered regional Graphic Interface for strategize ubiquitous communities	0.0	0.4
+158	Spencer-Black	Realigned zero-defect ability for mesh end-to-end technologies	0.0	0.0
+147	Morgan-Robbins	Organic methodical projection for transition robust synergies	0.0	0.0
+157	Simmons and Sons	Visionary explicit model for cultivate value-added info-mediaries	0.0	0.0
+155	Robles-Kerr	Configurable fresh-thinking Graphical User Interface for transform e-business models	0.0	0.0
+154	Ali-Cain	Extended systematic knowledge user for re-contextualize real-time platforms	0.0	0.0
+149	Hopkins-Wilson	Customer-focused global website for monetize out-of-the-box paradigms	0.0	0.0
+153	Walton, Webb and Watkins	Front-line value-added circuit for architect synergistic models	0.0	0.0
+152	Cole Inc	Synergized composite capacity for integrate value-added functionalities	0.0	0.0
+172	Romero Group	Profit-focused asynchronous structure for monetize bleeding-edge users	0.0	0.0
+144	Blair PLC	Business-focused optimal secured line for whiteboard proactive networks	0.0	0.0
+143	Reese-Sullivan	Cross-platform motivating paradigm for productize collaborative convergence	0.0	0.0
+174	Taylor Ltd	Reactive eco-centric solution for incentivize impactful bandwidth	0.0	0.0
+191	Davis-Hernandez	Open-architected multi-tasking attitude for leverage B2B supply-chains	0.0	0.0
+136	Flores-Butler	Distributed needs-based alliance for integrate leading-edge channels	0.0	0.0
+190	Willis and Sons	Team-oriented holistic neural-net for productize killer partnerships	0.0	0.0
+189	Vance, Patel and Winters	Synergized 4thgeneration instruction set for unleash cross-media systems	0.0	0.0
+188	Butler Group	Face-to-face needs-based secured line for scale strategic users	0.0	0.0
+137	Patterson, Gordon and Martinez	Assimilated local database for whiteboard user-centric e-business	0.0	0.0
+187	Mcintyre Ltd	Realigned actuating data-warehouse for brand proactive communities	0.0	0.0
+186	Reyes PLC	Customizable methodical migration for unleash best-of-breed convergence	0.0	0.0
+138	Rose, Wilson and Conrad	Function-based clear-thinking matrices for reinvent real-time users	0.0	0.0
+139	Thompson-Velasquez	Cross-group asymmetric ability for architect best-of-breed e-markets	0.0	0.0
+184	Butler and Sons	Fundamental contextually-based challenge for embrace revolutionary systems	0.0	0.0
+183	Delgado Group	Synergized full-range framework for exploit B2B web-readiness	0.0	0.0
+182	Diaz-Ross	Configurable explicit customer loyalty for brand dynamic models	0.0	0.16666666666666666
+140	Robinson-Hall	Optimized encompassing algorithm for transition next-generation mindshare	0.0	0.0
+142	Palmer PLC	Integrated dedicated architecture for integrate leading-edge mindshare	0.0	0.0
+180	Murillo, Johnson and Garrett	Polarized impactful open architecture for integrate plug-and-play e-tailers	0.0	0.5
+179	Jones, Chaney and Santana	Optional composite info-mediaries for engineer dot-com e-tailers	0.0	0.0
+178	Mendoza, Cooper and Davis	Assimilated needs-based concept for embrace dynamic supply-chains	0.0	0.16666666666666666
+175	Anderson Group	Configurable intermediate info-mediaries for empower virtual models	0.0	0.0
+150	Meadows, Vazquez and Martin	Re-contextualized value-added portal for iterate back-end bandwidth	0.0	0.0
+11	Phillips Group	Innovative scalable artificial intelligence for orchestrate virtual models	-0.04999999999999999	1.0
+85	Lambert-Phillips	Profound secondary toolset for generate synergistic applications	-0.10833333333333334	0.65
+470	Walker LLC	active stable infrastructure for generate impactful systems	-0.13333333333333333	0.6
+198	Hunter, Harris and Tyler	Expanded secondary open system for drive integrated platforms	-0.15	0.4
+173	Grimes Inc	De-engineered secondary support for visualize robust architectures	-0.3	0.3
+478	Francis Group	Expanded secondary pricing structure for transform one-to-one architectures	-0.3	0.3
+316	Alexander-Moore	Grass-roots secondary benchmark for optimize user-centric deliverables	-0.3	0.3
+398	Franklin, Flynn and Bell	Pre-emptive secondary projection for re-contextualize sticky e-markets	-0.3	0.3
+322	Gregory, Dawson and Davila	Synergized secondary task-force for facilitate visionary web services	-0.3	0.3
+241	Smith-Russo	Quality-focused didactic portal for evolve robust channels	-0.5	0.8
+59	Craig, Weber and Wolfe	Down-sized didactic implementation for grow transparent e-services	-0.5	0.8
+299	Patrick Ltd	Extended didactic workforce for matrix cross-media solutions	-0.5	0.8
+274	Bates-Johnson	Distributed didactic portal for mesh integrated synergies	-0.5	0.8
+13	Stevens-King	Reduced didactic interface for grow next-generation e-business	-0.5	0.8
+95	Fleming Ltd	Compatible maximized artificial intelligence for orchestrate sticky ROI	-0.6	1.0
+54	Johnson Ltd	Synchronized clear-thinking artificial intelligence for cultivate efficient interfaces	-0.6	1.0
+181	Coffey, Barron and Morse	Front-line regional artificial intelligence for synthesize turn-key eyeballs	-0.6	1.0
+185	Stevenson-Copeland	Future-proofed multi-state artificial intelligence for incentivize 24/365 platforms	-0.6	1.0
+440	Campbell-Ross	User-friendly client-driven artificial intelligence for implement turn-key web-readiness	-0.6	1.0
+396	Wright LLC	Triple-buffered 6thgeneration artificial intelligence for grow 24/7 vortals	-0.6	1.0
+192	Marshall LLC	Monitored stable artificial intelligence for drive front-end schemas	-0.6	1.0
